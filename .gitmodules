@@ -1,0 +1,9 @@
+[submodule "SourceCodeKit"]
+	path = SourceCodeKit
+	url = https://github.com/etoile/SourceCodeKit
+[submodule "EtoileFoundation"]
+	path = EtoileFoundation
+	url = https://github.com/etoile/EtoileFoundation
+[submodule "UnitKit"]
+	path = UnitKit
+	url = https://github.com/etoile/UnitKit.git
